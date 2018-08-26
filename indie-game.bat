@@ -1,0 +1,1 @@
+git clone https://github.com/Unlimited2112/%~n0.git
